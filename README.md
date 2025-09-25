@@ -1,3 +1,3 @@
-<img width="825" height="598" alt="image" src="https://github.com/user-attachments/assets/ba4fad3a-ce39-467e-a629-03bd907ad369" />
+<img width="817" height="492" alt="image" src="https://github.com/user-attachments/assets/1e670366-e86f-4e1d-9d5b-9d6f7bae088a" />
 
 program simpel konversi suhu
