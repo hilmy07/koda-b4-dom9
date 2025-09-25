@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Konversi Suhu</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Konversi Suhu</h1>
+
+      <label for="inputCelcius">Masukkan Suhu (°C):</label>
+      <input type="number" id="inputCelcius" />
+      <button onclick="tambahData()">Konversi</button>
+
+      <h2>History Konversi</h2>
+      <table id="suhuTable">
+        <tr>
+          <th>Celcius (°C)</th>
+          <th>Fahrenheit (°F)</th>
+          <th>Reamur (°Re)</th>
+          <th>Kelvin (K)</th>
+        </tr>
+      </table>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
